@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161679754898",
+    "project_id": "gestionrutasapp",
+    "storage_bucket": "gestionrutasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161679754898:android:66f060d72a9a8ca5fb084b",
+        "android_client_info": {
+          "package_name": "com.example.frontend_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161679754898-9b1ovc5i9u7tci5cuf82k2aj5o60tjf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcf-j37TaHvP-SlnIfineI2mfhteP3o94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161679754898-9b1ovc5i9u7tci5cuf82k2aj5o60tjf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
